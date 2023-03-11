@@ -1,4 +1,4 @@
-![MasterHead](https://c0.wallpaperflare.com/preview/697/898/445/cloud-computing-illustration-technology.jpg)
+![MasterHead](https://github.com/rajdev0ps/rajdev0ps/blob/main/devsecops.JPG)
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate Cloud Architect with around 8+ years of experience from India.</h3>
 
