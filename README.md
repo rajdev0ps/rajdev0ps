@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Devsecops,FinOps, ML & AI Projects**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Certifications:<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png)" alt="aws" width="40" height="40"/> </h3>
 <p align="left">
 </p>
 
