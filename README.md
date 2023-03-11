@@ -1,9 +1,9 @@
-![logo](https://c0.wallpaperflare.com/preview/697/898/445/cloud-computing-illustration-technology.jpg)
+![MasterHead](https://c0.wallpaperflare.com/preview/697/898/445/cloud-computing-illustration-technology.jpg)
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate Cloud Architect with around 8+ years of experience from India.</h3>
 
-<img align="center" alt="Devsecops" width="400" src="https://universeit.blog/web/app/uploads/2022/06/DevSecOps-DevOps-Security.jpg">
-<img align="center" alt="Devsecops" width="400" src="https://www.vitado.com/wp-content/uploads/2022/05/Finops-1.png">
+<img align="left" alt="Devsecops" width="400" src="https://universeit.blog/web/app/uploads/2022/06/DevSecOps-DevOps-Security.jpg">
+<img align="right" alt="Devsecops" width="400" src="https://www.vitado.com/wp-content/uploads/2022/05/Finops-1.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdev0ps&label=Profile%20views&color=0e75b6&style=flat" alt="rajdev0ps" /> </p>
