@@ -14,8 +14,8 @@
 
 
 
-<b> Kubernetes Certified Administrator</b><br>
-<b> AWS Certified Solutions Architect - Professional<<br>
+<b> Kubernetes Certified Administrator</br>
+<b> AWS Certified Solutions Architect - Professional</br>
 <b> AWS Certified Solutions Architect - Associate</br>
 <b> AWS Certified SysOps Administrator - Associate</br>
 <b> Redhat Certififed Engineer</br>
