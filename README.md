@@ -11,11 +11,14 @@
 - 🔭 I’m currently working on **Devsecops,FinOps, ML & AI Projects**
 
 <h3 align="left">Certifications: </h3>
-<b>Kubernetes Certified Administrator</b>
-<b>AWS Certified Solutions Architect - Professional</b>
-<b>AWS Certified Solutions Architect - Associate</b>
-<b>AWS Certified SysOps Administrator - Associate</b>
-<b>Redhat Certififed Engineer</b>
+
+
+
+<b> Kubernetes Certified Administrator</b><br>
+<b> AWS Certified Solutions Architect - Professional<<br>
+<b> AWS Certified Solutions Architect - Associate</br>
+<b> AWS Certified SysOps Administrator - Associate</br>
+<b> Redhat Certififed Engineer</br>
 
 
 <p align="left">
