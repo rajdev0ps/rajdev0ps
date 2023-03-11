@@ -11,7 +11,9 @@
 - 🔭 I’m currently working on **Devsecops,FinOps, ML & AI Projects**
 
 <h3 align="left">Certifications: </h3>
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png)" width="40" height="40"/>
+
+<img align="left" alt="Devsecops" width="40"  height="40" src="[https://universeit.blog/web/app/uploads/2022/06/DevSecOps-DevOps-Security.jpg](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Professional_badge.69d82ff1b2861e1089539ebba906c70b011b928a.png)">
+
 <p align="left">
 </p>
 
