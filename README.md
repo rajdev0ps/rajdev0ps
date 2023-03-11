@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/rajdev0ps/rajdev0ps/blob/main/devsecops.JPG](https://github.com/rajdev0ps/rajdev0ps/blob/main/dev.JPG))
+![MasterHead]([https://github.com/rajdev0ps/rajdev0ps/blob/main/im.JPG))
 <h1 align="center">Hi 👋, I'm Raj</h1>
 <h3 align="center">A passionate Cloud Architect with around 8+ years of experience from India.</h3>
 
