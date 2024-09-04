@@ -23,13 +23,13 @@ For any inquiries or collaborations, please contact me at www.linkedin.com/in/ra
 
 Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services.
 
-    - Architecture overview
+   - Architecture overview
       ![Landing zone overview](projects/cloud-migration/architecture.jpeg)  
       
-    - Account structure
+   - Account structure
       ![Account structure](projects/cloud-migration/organizations-units.jpeg)
       
-    - IP Subnets & Availablity zones
+   - IP Subnets & Availablity zones
       ![IP Subnets & Availablity zones](projects/cloud-migration/ip-subnetting.jpeg) 
 
   ---------------------------------------------------------------- **** ----------------------------------------------------------------
@@ -40,8 +40,8 @@ Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cl
   Developed an Customized AWS Backup Validation Solution which Clone AWS VPC Components and EC2 clone with same attributes (NAME+IP+Subnet+SecurityGroups) using AWS Lambda, SQS, Iam Role and CloudFormation  
   template. Thi solution can be deployed across multi-account/multi-region using CloudFormation stackset feature. With this custtomer achieved a significant reduction in manual   
   validation time and accuracy in DR-Drill.
-  
-    - Customized AWS Backup Validation Solution
+ 
+   - Customized AWS Backup Validation Solution
       ![AWS Backup Validation Solution](projects/cloud-migration/backup-validation.png)
 
   ---------------------------------------------------------------- **** ----------------------------------------------------------------
@@ -67,8 +67,8 @@ Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cl
   perform activities which would enable Customer to host Disaster Recovery or Secondary
   datacenter for these application and Database on Amazon AWS.
   
-      Hybrid Cloud DR Architecture
-      ![Hybrid Cloud DR Architecture](projects/cloud-migration/Cloud-Endure.jpg)
+    Hybrid Cloud DR Architecture
+   ![Hybrid Cloud DR Architecture](projects/cloud-migration/Cloud-Endure.jpg)
 
  **Summary of Cloud Endure setup**
 
