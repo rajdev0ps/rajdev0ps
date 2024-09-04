@@ -22,8 +22,8 @@ For any inquiries or collaborations, please contact me at www.linkedin.com/in/ra
 1. Onpremise to Cloud Migration (Lift & Shift Approach) >> Later Scope modified to (Application Assessment)
   Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services.
 
-    - Landing zone overview
-      ![Landing zone overview](projects/cloud-migration/image.png)
+    - Architecture overview
+      ![Landing zone overview](projects/cloud-migration/architecture.jpeg)
   
     - Account structure
       ![Account structure](projects/cloud-migration/organizations-units.jpeg)
@@ -41,13 +41,46 @@ For any inquiries or collaborations, please contact me at www.linkedin.com/in/ra
       ![AWS Backup Validation Solution](projects/cloud-migration/backup-validation.png)
           
 
-2. Internal Mutli-Cloud Inventory
+3. Internal Mutli-Cloud Inventory
   Created an internal website for cloud inventory management across AWS and Azure, providing real-time infrastructure insights accessible to both technical and non-technical users.
   With further PowerAutomate we can added real-time inventory fetching feature and downloading customized inventoryy based on various filters/tags.
 
+  **Benefits**
   - *This reduced devops team to logging each account and fetech inventory or get status of VMs*
   - *Allow app teams to see and fetech current Inventory without devop team involvement*
   - *This solutions was developed due to recent Microsoft Outage*
+
+      ![Internal Mutli-Cloud Inventory](projects/cloud-migration/cloud-inventory.png)
+
+4. Hybrid Cloud DR Architecture (AWS|Azure)
+  The purpose of this engagement is to perform assessment with a view to consult, design and
+  perform activities which would enable Customer to host Disaster Recovery or Secondary
+  datacenter for these application and Database on Amazon AWS.
+
+      Hybrid Cloud DR Architecture
+      ![Hybrid Cloud DR Architecture](projects/cloud-migration/Cloud-Endure.jpg)
+
+ **Summary of Cloud Endure setup**
+
+    *1. In the AWS Credentials tab of the Account page in the CloudEndure console, enter the AWS Access Key ID and the AWS Secret Access Key credentials based on the required IAM policy Click the ‘Save’ button.*
+    *2. In the Replication Settings tab of the Account page in the CloudEndure console, select the source location as Generic. Choose the target location as your designated target region.*
+    *3. In the Replication Settings tab of the Account page in the CloudEndure console, select the subnet you designated for the replication servers from the drop-down selection under ‘Replication servers’. If  
+        you’d like the replicated data to be transmitted from the source  machine to the target cloud-based replication server over a private connection, check the ‘Use VPN’ checkbox. Please note that in order to 
+        use the automated failback feature, the ‘Use VPN’ checkbox must be checked.*
+    *4. Click the 'Save Replication Settings'.*
+
+    ![Hybrid Cloud DR Architecture](projects/cloud-migration/Cloud-Endure-2.jpg)
+
+
+  **Summary of AZURE to AWS Failover activity**
+
+    *1) Created a Default Project for Failover activity and Installed the CloudEndure Agent on Application(VM ScaleSet) server and on LNT-PRD-DB01 server and it started the replication on CloudEndure console.*
+    *2) Configure the Blueprint for the server’s.*
+    *3) Once the CloudEndure console shows “Continuous Data Replication”, we have started the Failover of servers one by one.*
+    *4) Select the server and click on “Recovery Mode”, Sever is created on AWS with the same configuration mentioned on Blueprint.*
+    *5) X team has tested the server one by one and checked the application and database and changed the DNS pointer to AWS Server.*
+    *6) X team has checked all the servers and pointed the DNS to AWS Sever and shutdown the Azure servers. All the workload of the application got migrated to AWS servers.*
+
 
       ![Internal Mutli-Cloud Inventory](projects/cloud-migration/cloud-inventory.png)
   
