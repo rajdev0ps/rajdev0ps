@@ -23,19 +23,21 @@ For any inquiries or collaborations, please contact me at www.linkedin.com/in/ra
   Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services.
 
     - Landing zone overview
-      (projects/cloud-migration/image.png)
+      ![Landing zone overview](projects/cloud-migration/image.png)
   
     - Account structure
-      (projects/cloud-migration/organizations-units.jpeg)
+      ![Account structure](projects/cloud-migration/organizations-units.jpeg)
   
     - IP Subnets & Availablity zones
-      (projects/cloud-migration/ip-subnetting.jpeg)  
+      ![IP Subnets & Availablity zones](projects/cloud-migration/ip-subnetting.jpeg) 
+       
 
 2. Customized AWS Backup Validation Solution
   Developed an automated solution using AWS Lambda and CloudFormation, enabling single-click deployment across 100+ accounts. Achieved a significant reduction in manual validation time and accuracy in DR-Drill.
 
-    - Landing zone overview
-          (projects/cloud-migration/backup-validation.png)
+    - AWS Backup Validation Solution
+      ![AWS Backup Validation Solution](projects/cloud-migration/backup-validation.png)
+          
 
 2. Internal Mutli-Cloud Inventory
   Created an internal website for cloud inventory management across AWS and Azure, providing real-time infrastructure insights accessible to both technical and non-technical users.
@@ -46,5 +48,6 @@ For any inquiries or collaborations, please contact me at www.linkedin.com/in/ra
   - **This solutions was developed due to recent Microsoft Outage**
 
     - Internal Mutli-Cloud Inventory
-          (projects/cloud-migration/cloud-inventory.png)
+      ![Internal Mutli-Cloud Inventory](projects/cloud-migration/cloud-inventory.png)
+  
  
