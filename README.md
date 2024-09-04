@@ -22,24 +22,28 @@ For any inquiries or collaborations, please contact me at www.linkedin.com/in/ra
 1. Onpremise to Cloud Migration (Lift & Shift Approach) >> Later Scope modified to (Application Assessment)
 
 Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services.
+
     - Architecture overview
       ![Landing zone overview](projects/cloud-migration/architecture.jpeg)  
+      
     - Account structure
       ![Account structure](projects/cloud-migration/organizations-units.jpeg)
+      
     - IP Subnets & Availablity zones
       ![IP Subnets & Availablity zones](projects/cloud-migration/ip-subnetting.jpeg) 
        
 
-1. AWS Backup Validation Solution
+2. AWS Backup Validation Solution
    
   Developed an Customized AWS Backup Validation Solution which Clone AWS VPC Components and EC2 clone with same attributes (NAME+IP+Subnet+SecurityGroups) using AWS Lambda, SQS, Iam Role and CloudFormation  
   template. Thi solution can be deployed across multi-account/multi-region using CloudFormation stackset feature. With this custtomer achieved a significant reduction in manual   
   validation time and accuracy in DR-Drill.
+  
     - Customized AWS Backup Validation Solution
       ![AWS Backup Validation Solution](projects/cloud-migration/backup-validation.png)
           
 
-4. Internal Mutli-Cloud Inventory
+3. Internal Mutli-Cloud Inventory
    
   Created an internal website for cloud inventory management across AWS and Azure, providing real-time infrastructure insights accessible to both technical and non-technical users.
   With further PowerAutomate we can added real-time inventory fetching feature and downloading customized inventoryy based on various filters/tags.
@@ -56,6 +60,7 @@ Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cl
   The purpose of this engagement is to perform assessment with a view to consult, design and
   perform activities which would enable Customer to host Disaster Recovery or Secondary
   datacenter for these application and Database on Amazon AWS.
+  
       Hybrid Cloud DR Architecture
       ![Hybrid Cloud DR Architecture](projects/cloud-migration/Cloud-Endure.jpg)
 
