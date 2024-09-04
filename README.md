@@ -18,4 +18,7 @@ With a decade of experience in IT, I am a Multi-Cloud Architect with a deep expe
 For any inquiries or collaborations, please contact me at www.linkedin.com/in/raj-deolekar
 
 ### Projects
-### Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services. Used Lift and Shift approach.
+
+1. Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services. Used Lift and Shift approach.
+
+    - ![Landing zone overview](projects/cloud-migration/image.png)  
