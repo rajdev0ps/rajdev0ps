@@ -21,4 +21,11 @@ For any inquiries or collaborations, please contact me at www.linkedin.com/in/ra
 
 1. Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services. Used Lift and Shift approach.
 
-    - ![Landing zone overview](projects/cloud-migration/image.png)  
+    - Landing zone overview
+    - ![Landing zone overview](projects/cloud-migration/image.png)
+  
+    - Account structure
+    - ![Landing zone overview](projects/cloud-migration/organizations-units.jpeg)
+  
+    - IP Subnets & Availablity zones
+    - ![Landing zone overview](projects/cloud-migration/ip-subnetting.jpeg)  
