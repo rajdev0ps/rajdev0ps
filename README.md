@@ -31,6 +31,8 @@ Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cl
       
     - IP Subnets & Availablity zones
       ![IP Subnets & Availablity zones](projects/cloud-migration/ip-subnetting.jpeg) 
+
+  ---------------------------------------------------------------- **** ----------------------------------------------------------------
        
 
 2. AWS Backup Validation Solution
@@ -41,6 +43,8 @@ Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cl
   
     - Customized AWS Backup Validation Solution
       ![AWS Backup Validation Solution](projects/cloud-migration/backup-validation.png)
+
+  ---------------------------------------------------------------- **** ----------------------------------------------------------------
           
 
 3. Internal Mutli-Cloud Inventory
@@ -54,6 +58,8 @@ Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cl
   - *This solutions was developed due to recent Microsoft Outage*
 
       ![Internal Mutli-Cloud Inventory](projects/cloud-migration/cloud-inventory.png)
+    
+  ---------------------------------------------------------------- **** ----------------------------------------------------------------
 
 4. Hybrid Cloud DR Architecture (AWS|Azure)
    
@@ -75,7 +81,7 @@ Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cl
 
    ![Cloud-Endure Setup](projects/cloud-migration/Cloud-Endure-2.jpg)
 
-  **Summary of AZURE to AWS Failover activity**
+  **Steps of AZURE to AWS Failover activity**
 
     1) Created a Default Project for Failover activity and Installed the CloudEndure Agent on Application(VM ScaleSet) server and on LNT-PRD-DB01 server and it started the replication on CloudEndure console.
     2) Configure the Blueprint for the server’s.
