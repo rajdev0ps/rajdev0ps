@@ -19,13 +19,32 @@ For any inquiries or collaborations, please contact me at www.linkedin.com/in/ra
 
 ### Projects
 
-1. Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services. Used Lift and Shift approach.
+1. Onpremise to Cloud Migration (Lift & Shift Approach) >> Later Scope modified to (Application Assessment)
+  Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services.
 
     - Landing zone overview
-    - ![Landing zone overview](projects/cloud-migration/image.png)
+      (projects/cloud-migration/image.png)
   
     - Account structure
-    - ![Landing zone overview](projects/cloud-migration/organizations-units.jpeg)
+      (projects/cloud-migration/organizations-units.jpeg)
   
     - IP Subnets & Availablity zones
-    - ![Landing zone overview](projects/cloud-migration/ip-subnetting.jpeg)  
+      (projects/cloud-migration/ip-subnetting.jpeg)  
+
+2. Customized AWS Backup Validation Solution
+  Developed an automated solution using AWS Lambda and CloudFormation, enabling single-click deployment across 100+ accounts. Achieved a significant reduction in manual validation time and accuracy in DR-Drill.
+
+    - Landing zone overview
+          (projects/cloud-migration/backup-validation.png)
+
+2. Internal Mutli-Cloud Inventory
+  Created an internal website for cloud inventory management across AWS and Azure, providing real-time infrastructure insights accessible to both technical and non-technical users.
+  With further PowerAutomate we can added real-time inventory fetching feature and downloading customized inventoryy based on various filters/tags.
+
+  - **This reduced devops team to logging each account and fetech inventory or get status of VMs**
+  - **Allow app teams to see and fetech current Inventory without devop team involvement**
+  - **This solutions was developed due to recent Microsoft Outage**
+
+    - Internal Mutli-Cloud Inventory
+          (projects/cloud-migration/cloud-inventory.png)
+ 
