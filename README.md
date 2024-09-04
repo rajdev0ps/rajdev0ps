@@ -16,17 +16,5 @@ With a decade of experience in IT, I am a Multi-Cloud Architect with a deep expe
 
 For any inquiries or collaborations, please contact me at www.linkedin.com/in/raj-deolekar
 
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-=
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-=
+### Projects
+### Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services. Used Lift and Shift approach.
