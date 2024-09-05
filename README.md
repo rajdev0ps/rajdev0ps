@@ -111,5 +111,13 @@
     
       ![Appstream](projects/cloud-migration/appstream.JPG)
 
+ ---------------------------------------------------------------- **** ----------------------------------------------------------------
+
+6. Fresh AWS 3 Tier Account setup for Insurance Company
+   
+      AWS Account Structure Design and Network Architecture Setup with On-Premise VPN Connectivity Implemented root account, security, shared service, production, and non-production landing zone configuration.
+    
+      ![MultiAccount](projects/cloud-migration/fresh-acct.jpg)
+
   
  
