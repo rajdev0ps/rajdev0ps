@@ -60,7 +60,7 @@
     
   ---------------------------------------------------------------- **** ----------------------------------------------------------------
 
-4. Hybrid Cloud DR Architecture (AWS|Azure)
+4. Hybrid Cloud DR Architecture (AWS & Azure)
    
       The purpose of this engagement is to perform assessment with a view to consult, design and
       perform activities which would enable Customer to host Disaster Recovery or Secondary
@@ -73,12 +73,12 @@
 
       **Steps of AZURE to AWS Failover activity**
 
-      1) Created a Default Project for Failover activity and Installed the CloudEndure Agent on Application(VM ScaleSet) server and on LNT-PRD-DB01 server and it started the replication on CloudEndure console.
-      2) Configure the Blueprint for the server’s.
-      3) Once the CloudEndure console shows “Continuous Data Replication”, we have started the Failover of servers one by one.
-      4) Select the server and click on “Recovery Mode”, Sever is created on AWS with the same configuration mentioned on Blueprint.
-      5) X team has tested the server one by one and checked the application and database and changed the DNS pointer to AWS Server.
-      6) X team has checked all the servers and pointed the DNS to AWS Sever and shutdown the Azure servers. All the workload of the application got migrated to AWS servers.
+        1) Created a Default Project for Failover activity and Installed the CloudEndure Agent on Application(VM ScaleSet) server and on LNT-PRD-DB01 server and it started the replication on CloudEndure console.
+        2) Configure the Blueprint for the server’s.
+        3) Once the CloudEndure console shows “Continuous Data Replication”, we have started the Failover of servers one by one.
+        4) Select the server and click on “Recovery Mode”, Sever is created on AWS with the same configuration mentioned on Blueprint.
+        5) X team has tested the server one by one and checked the application and database and changed the DNS pointer to AWS Server.
+        6) X team has checked all the servers and pointed the DNS to AWS Sever and shutdown the Azure servers. All the workload of the application got migrated to AWS servers.
 
 
   
