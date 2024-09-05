@@ -102,6 +102,14 @@
         5) X team has tested the server one by one and checked the application and database and changed the DNS pointer to AWS Server.
         6) X team has checked all the servers and pointed the DNS to AWS Sever and shutdown the Azure servers. All the workload of the application got migrated to AWS servers.
 
+ ---------------------------------------------------------------- **** ----------------------------------------------------------------
+
+5. Appstream Solution Architecture (AWS & Azure)
+   
+      Designed and deployed Appstream 2.0 as a SaaS solution for an internal application that collects sensitive biomedical data. This help company X legacy application was replatformed to AWS Cloud on AppStream 
+      2.0 for over 200 users.
+    
+      ![Appstream](projects/cloud-migration/appstream.JPG)
 
   
  
