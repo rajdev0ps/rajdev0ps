@@ -2,8 +2,8 @@
 ## About Me
 # Raj DevOps - Multi-Cloud Architect
 
-  With a decade of experience in IT, I am a Multi-Cloud Architect with a deep expertise in various cloud platforms and DevOps practices. My proficiency enables me to design and implement robust and scalable   
-  solutions tailored to modern needs. I specialize in crafting sophisticated cloud architectures and modernizing applications. My skill set includes:
+  With a decade of experience in IT, I am a Multi-Cloud Architect with deep expertise in various cloud platforms and DevOps practices. My proficiency allows me to design and implement robust, scalable solutions 
+  tailored to modern needs. I specialize in crafting sophisticated cloud architectures and modernizing applications
 
 #### Technical Skills:
  - **Amazon Web Services(AWS)**
@@ -21,7 +21,7 @@
 
 1. Onpremise to Cloud Migration (Lift & Shift Approach) >> Later Scope modified to (Application Assessment)
 
-    Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cloud using AWS Server migration services.
+    Migrated over 70 applications and 400+ Windows/Linux servers to AWS Cloud using AWS Server Migration Service.
 
    - Architecture overview
       ![Landing zone overview](projects/cloud-migration/architecture.jpeg)  
@@ -36,9 +36,9 @@
        
 2. AWS Backup Validation Solution
    
-    Developed an Customized AWS Backup Validation Solution which Clone AWS VPC Components and EC2 clone with same attributes (NAME+IP+Subnet+SecurityGroups) using AWS Lambda, SQS, Iam Role and CloudFormation  
-    template. Thi solution can be deployed across multi-account/multi-region using CloudFormation stackset feature. With this custtomer achieved a significant reduction in manual   
-    validation time and accuracy in DR-Drill.
+    Developed a customized AWS Backup Validation Solution that clones AWS VPC components and EC2 instances with the same attributes (NAME, IP, Subnet, Security Groups etc) using AWS Lambda, SQS, IAM roles, and   
+    CloudFormation templates. This solution can be deployed across multiple accounts and regions using CloudFormation StackSets. As a result, customers achieved a significant reduction in manual validation time 
+    and increased accuracy in DR drills.
  
     - Architecture
       ![Architecture](projects/cloud-migration/backup-validation.png)
@@ -99,13 +99,12 @@
 
 4. Internal Mutli-Cloud Inventory
    
-     Created an internal website for cloud inventory management across AWS and Azure, providing real-time infrastructure insights accessible to both technical and non-technical users.
-     With further PowerAutomate we can added real-time inventory fetching feature and downloading customized inventoryy based on various filters/tags.
+     Created an internal website for cloud inventory management across AWS and Azure, providing real-time infrastructure insights accessible to both technical and non-technical users. With further integration of      PowerAutomate, added features include real-time inventory fetching and customized downloads based on various filters and tags.
    
      **Benefits**
-     - *This reduced devops team to logging each account and fetech inventory or get status of VMs*
-     - *Allow app teams to see and fetech current Inventory without devop team involvement*
-     - *This solutions was developed due to recent Microsoft Outage*
+     - *Reduced the need for DevOps teams to log into each account to fetch inventory or get the status of VMs.*
+     - *Allowed application teams to view and fetch the current inventory without DevOps team involvement.*
+     - *This solution was developed in response to a recent Microsoft outage.*
 
       ![Internal Mutli-Cloud Inventory](projects/cloud-migration/cloud-inventory.png)
     
@@ -113,9 +112,8 @@
 
 5. Hybrid Cloud DR Architecture (AWS & Azure)
    
-      The purpose of this engagement is to perform assessment with a view to consult, design and
-      perform activities which would enable Customer to host Disaster Recovery or Secondary
-      datacenter for these application and Database on Amazon AWS.
+      The purpose of this engagement is to assess, consult, design, and perform activities that will enable the customer to host Disaster Recovery or a secondary datacenter for these applications and databases 
+      on Amazon AWS.
     
       ![Hybrid Cloud DR Architecture](projects/cloud-migration/Cloud-Endure.jpg)
     
@@ -135,8 +133,8 @@
 
 6. Appstream Solution Architecture (AWS & Azure)
    
-      Designed and deployed Appstream 2.0 as a SaaS solution for an internal application that collects sensitive biomedical data. This help company X legacy application was replatformed to AWS Cloud on AppStream 
-      2.0 for over 200 users.
+      Designed and deployed AppStream 2.0 as a SaaS solution for an internal application that collects sensitive biomedical data. This implementation replatformed Company X's legacy application to AWS Cloud on 
+      AppStream 2.0 for over 200 users.
     
       ![Appstream](projects/cloud-migration/appstream.JPG)
 
@@ -144,7 +142,8 @@
 
 7. Fresh AWS 3 Tier Account setup for Insurance Company
    
-      AWS Account Structure Design and Network Architecture Setup with On-Premise VPN Connectivity Implemented root account, security, shared service, production, and non-production landing zone configuration.
+      Designed the AWS account structure and network architecture, including on-premises VPN connectivity. Implemented configurations for root account, security, shared services, production, and non-production 
+      landing zones.
     
       ![MultiAccount](projects/cloud-migration/fresh-acct.jpg)
 
@@ -152,7 +151,7 @@
 
 8. AWS Landscape for AEM Application this was before Transit gateway launch.
    
-      AWS Account Structure Design and Network Architecture Setup was done for AEM Applications.
+      Designed the AWS account structure and network architecture for AEM applications.
     
       ![AEM](projects/cloud-migration/aem-trans.jpg)
 
@@ -161,7 +160,7 @@
 
 9. AWS Multi-Environment Infra provisioning via Terraform and CI-CD  [THIS IS NOT REAL WORLD EXAMPLE THIS LEARNING FROM UDEMY]
    
-      Below setup show DEV and STAGE AWS infrastructure deployment via CI-CD using Terraform as IaaC.
+      The setup below demonstrates the deployment of DEV and STAGE AWS infrastructure via CI/CD using Terraform as Infrastructure as Code (IaC).
    
       ![terraform](projects/cloud-migration/terraform-on-aws-3.jpg)
 
