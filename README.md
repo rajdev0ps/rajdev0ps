@@ -159,5 +159,17 @@
     
       ![AEM](projects/cloud-migration/aem-trans.jpg)
 
+ ---------------------------------------------------------------- **** ----------------------------------------------------------------
+
+9. AWS Multi-Environment Infra provisioning via Terraform and CI-CD  [THIS IS NOT REAL WORLD EXAMPLE THIS LEARNING FROM UDEMY]
+   
+      Below setup show DEV and STAGE AWS infrastructure deployment via CI-CD using Terraform as IaaC.
+   
+      ![terraform](projects/cloud-migration/terraform-on-aws-3.jpg)
+
+      ![terraform2](projects/cloud-migration/terraform-on-aws.jpg)
+
+      ![terraform3](projects/cloud-migration/terraform-on-aws-2.jpg)
+
   
  
