@@ -30,7 +30,7 @@ Migrated customer 70+ applications around 400+ (Windows/Linux servers) to AWS cl
       ![Account structure](projects/cloud-migration/organizations-units.jpeg)
       
    - IP Subnets & Availablity zones
-      ![IP Subnets & Availablity zones](projects/cloud-migration/ip-subnetting.jpeg) 
+      ![IP Subnets & Availablity zones](projects/cloud-migration/network-ip.PNG) 
 
   ---------------------------------------------------------------- **** ----------------------------------------------------------------
        
