@@ -119,5 +119,13 @@
     
       ![MultiAccount](projects/cloud-migration/fresh-acct.jpg)
 
+ ---------------------------------------------------------------- **** ----------------------------------------------------------------
+
+7. AWS Landscape for AEM Application this was before Transit gateway launch.
+   
+      AWS Account Structure Design and Network Architecture Setup was done for AEM Applications.
+    
+      ![AEM](projects/cloud-migration/fresh-acct.jpg)
+
   
  
