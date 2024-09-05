@@ -46,6 +46,9 @@
     - Workflow
       ![Workflow](projects/cloud-migration/workflow.png)
 
+    - DB Workflow
+      ![DB Workflow](projects/cloud-migration/bckp-6.png)
+
     - Step 1
       ![Step 1](projects/cloud-migration/bckp-1.png)
      
