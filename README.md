@@ -125,7 +125,7 @@
    
       AWS Account Structure Design and Network Architecture Setup was done for AEM Applications.
     
-      ![AEM](projects/cloud-migration/fresh-acct.jpg)
+      ![AEM](projects/cloud-migration/aem-trans.jpg)
 
   
  
