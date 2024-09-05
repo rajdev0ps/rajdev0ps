@@ -63,12 +63,44 @@
 
     - Step 5
       ![Step 5](projects/cloud-migration/bckp-5.png)
-     
 
-  ---------------------------------------------------------------- **** ----------------------------------------------------------------
+---------------------------------------------------------------- **** ----------------------------------------------------------------
+
+3. Kubernetes EKS and AKS Architecture
+   
+     - AWS EKS Delievery Pipeline state
+      ![EKS](projects/cloud-migration/aws-eks.jpg)
+
+     - Azure AKS Delievery Pipeline state
+      ![AKS](projects/cloud-migration/azure-aks.jpg)
+
+     - How to do Helm based Deployments via ADO
+
+            1. Checkout to your branch:
+            	git checkout -b <your-branch-name>
+            
+            2. Pull the latest changes from the master/main branch to your local branch:
+            	git pull origin master
+            
+            3. Navigate to the application folder and update values.yaml , chart.yaml
+            	imageName or image tag and appVersion and version
+        
+            4. Push changes to repository
+            	git add .
+            	git commit -m "your message"
+            	git push
+   
+            5. Create a Pull Request and once it is approved pipeline get trigger for that particular application
+            
+            6. Monitor the Azure DevOps Pipeline for any errors.
+
+
+
+ ---------------------------------------------------------------- **** ----------------------------------------------------------------
+  
           
 
-3. Internal Mutli-Cloud Inventory
+4. Internal Mutli-Cloud Inventory
    
      Created an internal website for cloud inventory management across AWS and Azure, providing real-time infrastructure insights accessible to both technical and non-technical users.
      With further PowerAutomate we can added real-time inventory fetching feature and downloading customized inventoryy based on various filters/tags.
@@ -82,7 +114,7 @@
     
   ---------------------------------------------------------------- **** ----------------------------------------------------------------
 
-4. Hybrid Cloud DR Architecture (AWS & Azure)
+5. Hybrid Cloud DR Architecture (AWS & Azure)
    
       The purpose of this engagement is to perform assessment with a view to consult, design and
       perform activities which would enable Customer to host Disaster Recovery or Secondary
@@ -104,7 +136,7 @@
 
  ---------------------------------------------------------------- **** ----------------------------------------------------------------
 
-5. Appstream Solution Architecture (AWS & Azure)
+6. Appstream Solution Architecture (AWS & Azure)
    
       Designed and deployed Appstream 2.0 as a SaaS solution for an internal application that collects sensitive biomedical data. This help company X legacy application was replatformed to AWS Cloud on AppStream 
       2.0 for over 200 users.
@@ -113,7 +145,7 @@
 
  ---------------------------------------------------------------- **** ----------------------------------------------------------------
 
-6. Fresh AWS 3 Tier Account setup for Insurance Company
+7. Fresh AWS 3 Tier Account setup for Insurance Company
    
       AWS Account Structure Design and Network Architecture Setup with On-Premise VPN Connectivity Implemented root account, security, shared service, production, and non-production landing zone configuration.
     
@@ -121,7 +153,7 @@
 
  ---------------------------------------------------------------- **** ----------------------------------------------------------------
 
-7. AWS Landscape for AEM Application this was before Transit gateway launch.
+8. AWS Landscape for AEM Application this was before Transit gateway launch.
    
       AWS Account Structure Design and Network Architecture Setup was done for AEM Applications.
     
