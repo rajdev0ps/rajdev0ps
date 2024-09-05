@@ -40,8 +40,27 @@
     template. Thi solution can be deployed across multi-account/multi-region using CloudFormation stackset feature. With this custtomer achieved a significant reduction in manual   
     validation time and accuracy in DR-Drill.
  
-    - Customized AWS Backup Validation Solution
-      ![AWS Backup Validation Solution](projects/cloud-migration/backup-validation.png)
+    - Architecture
+      ![Architecture](projects/cloud-migration/backup-validation.png)
+
+    - Workflow
+      ![Workflow](projects/cloud-migration/workflow.png)
+
+    - Step 1
+      ![Step 1](projects/cloud-migration/bckp-1.png)
+     
+    - Step 2
+      ![Step 2](projects/cloud-migration/bckp-2.png)
+
+    - Step 3
+      ![Step 3](projects/cloud-migration/bckp-3.png)
+
+    - Step 4
+      ![Step 4](projects/cloud-migration/bckp-4.png)
+
+    - Step 5
+      ![Step 5](projects/cloud-migration/bckp-5.png)
+     
 
   ---------------------------------------------------------------- **** ----------------------------------------------------------------
           
