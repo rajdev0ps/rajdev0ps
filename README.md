@@ -45,6 +45,9 @@
 
     - Workflow
       ![Workflow](projects/cloud-migration/workflow.png)
+      
+    - UserInputfile-sample
+      ![Workflow](projects/cloud-migration/BV-Userinputfile.jpg)
 
     - DB Workflow
       ![DB Workflow](projects/cloud-migration/bckp-6.png)
@@ -167,6 +170,22 @@
       ![terraform2](projects/cloud-migration/terraform-on-aws.jpg)
 
       ![terraform3](projects/cloud-migration/terraform-on-aws-2.jpg)
+
+      ![terraform3](projects/cloud-migration/CI_CD-pipeline.jpg)
+
+      ![terraform3](projects/cloud-migration/CI_CD-pipeline.jpg)
+
+      ![terraform3](projects/cloud-migration/Synk_Analysis.jpg)
+
+      ![terraform3](projects/cloud-migration/Synk_Analysis.2..jpg)
+
+      ![terraform3](projects/cloud-migration/checkov-SCA-SAST.jpg)
+
+      ![terraform3](projects/cloud-migration/Infracost-cost.jpg)
+
+      ![terraform3](projects/cloud-migration/Infracost-finops.jpg)
+
+      ![terraform3](projects/cloud-migration/Infracost-finops-tagging.jpg)
 
    ----------------------------------------------------✦✦✦--✦✦✦--✦✦✦------------------------------------------------------------- 
  
