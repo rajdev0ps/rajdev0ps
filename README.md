@@ -171,21 +171,27 @@
 
       ![terraform3](projects/cloud-migration/terraform-on-aws-2.jpg)
 
-      ![CI-CD](projects/cloud-migration/CI_CD-pipeline.jpg)
-
-      ![CICD-2](projects/cloud-migration/CI_CD-pipeline.jpg)
-
+      ![CI-CD](projects/cloud-migration/CI-CD-Pipeline.jpg)
+   
+      - Synk Software Composition Analysis
       ![Synk](projects/cloud-migration/Synk_Analysis.jpg)
 
-      ![Synk-2](projects/cloud-migration/Synk_Analysis.2..jpg)
+      ![Synk-2](projects/cloud-migration/Synk_Analysis.2.jpg)
 
+      - Checkov Infrastructure Scanning Tool
       ![Checkov](projects/cloud-migration/checkov-SCA-SAST.jpg)
 
-      ![Infracost-1](projects/cloud-migration/Infracost-cost.jpg)
+      - Infracost Finosp-Governance-Cost Analysis for Terraform
 
-      ![Infracost-2](projects/cloud-migration/Infracost-finops.jpg)
+      ![Infrac-1](projects/cloud-migration/Infrarcost-1.jpg)
 
-      ![Infracost-3](projects/cloud-migration/Infracost-finops-tagging.jpg)
+      ![Infrac-1](projects/cloud-migration/Infrarcost-2.jpg)
+
+      ![Infracost-1](projects/cloud-migration/Infrarcost-cost.jpg)
+
+      ![Infracost-2](projects/cloud-migration/Infrarcost-finops.jpg)
+
+      ![Infracost-3](projects/cloud-migration/Infrarcost-finops-tagging.jpg)
 
    ----------------------------------------------------✦✦✦--✦✦✦--✦✦✦------------------------------------------------------------- 
  
