@@ -171,21 +171,21 @@
 
       ![terraform3](projects/cloud-migration/terraform-on-aws-2.jpg)
 
-      ![terraform3](projects/cloud-migration/CI_CD-pipeline.jpg)
+      ![CI-CD](projects/cloud-migration/CI_CD-pipeline.jpg)
 
-      ![terraform3](projects/cloud-migration/CI_CD-pipeline.jpg)
+      ![CICD-2](projects/cloud-migration/CI_CD-pipeline.jpg)
 
-      ![terraform3](projects/cloud-migration/Synk_Analysis.jpg)
+      ![Synk](projects/cloud-migration/Synk_Analysis.jpg)
 
-      ![terraform3](projects/cloud-migration/Synk_Analysis.2..jpg)
+      ![Synk-2](projects/cloud-migration/Synk_Analysis.2..jpg)
 
-      ![terraform3](projects/cloud-migration/checkov-SCA-SAST.jpg)
+      ![Checkov](projects/cloud-migration/checkov-SCA-SAST.jpg)
 
-      ![terraform3](projects/cloud-migration/Infracost-cost.jpg)
+      ![Infracost-1](projects/cloud-migration/Infracost-cost.jpg)
 
-      ![terraform3](projects/cloud-migration/Infracost-finops.jpg)
+      ![Infracost-2](projects/cloud-migration/Infracost-finops.jpg)
 
-      ![terraform3](projects/cloud-migration/Infracost-finops-tagging.jpg)
+      ![Infracost-3](projects/cloud-migration/Infracost-finops-tagging.jpg)
 
    ----------------------------------------------------✦✦✦--✦✦✦--✦✦✦------------------------------------------------------------- 
  
